@@ -1,0 +1,10 @@
+{
+  "name": "ai-tts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "undici": "^6.19.8",
+    "@elevenlabs/elevenlabs-js": "^0.11.0",
+    "dotenv": "^16.4.5"
+  }
+}
