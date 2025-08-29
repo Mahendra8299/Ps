@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/tts.ts": { "runtime": "nodejs18.x" },
+    "api/music.ts": { "runtime": "nodejs18.x" }
+  }
+}
